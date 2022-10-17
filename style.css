@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
 body {
-    font-family: sans-serif;
+    font-family: 'abel';
 }
 
 .wrapper {
@@ -24,6 +26,10 @@ body {
     margin: auto;
     display: block;
     width: 60%;
+}
+
+.inside p {
+    padding-right: 10px;
 }
 
 .inside a {
